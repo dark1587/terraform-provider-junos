@@ -1,11 +1,10 @@
 terraform-provider-junos
 ========================
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/chaynes/terraform-provider-junos)
-[![Go Status](https://github.com/jeremmfr/terraform-provider-junos/workflows/Go%20Tests/badge.svg)](https://github.com/chaynes/terraform-provider-junos/actions)
-[![Lint Status](https://github.com/jeremmfr/terraform-provider-junos/workflows/GolangCI-Lint/badge.svg)](https://github.com/chaynes/terraform-provider-junos/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jeremmfr/terraform-provider-junos)](https://goreportcard.com/report/github.com/chaynes/terraform-provider-junos)
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chaynes/terraform-provider-junos/blob/master/LICENSE)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/dark1587/terraform-provider-junos)
+[![Go Status](https://github.com/dark1587/terraform-provider-junos/workflows/Go%20Tests/badge.svg)](https://github.com/dark1587/terraform-provider-junos/actions)
+[![Lint Status](https://github.com/dark1587/terraform-provider-junos/workflows/GolangCI-Lint/badge.svg)](https://github.com/dark1587/terraform-provider-junos/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dark1587/terraform-provider-junos)](https://goreportcard.com/report/github.com/chaynes/terraform-provider-junos)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dark1587/terraform-provider-junos/blob/master/LICENSE)
 <br/><br/>
 This is an **unofficial** terraform provider for Junos devices with netconf protocol, forked from [jeremmfr](https://terraform-provider-junos.jeremm.fr/)
 
