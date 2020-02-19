@@ -27,7 +27,7 @@ $ tar -zxvf terraform-provider-junos*.tar.gz -C ${tfPath}
 Building The Provider
 ---------------------
 ```
-$ git clone https://github.com/jeremmfr/terraform-provider-junos.git
+$ git clone https://github.com/chaynes/terraform-provider-junos.git
 $ cd terraform-provider-junos && git fetch --tags
 $ latestTag=$(git describe --tags `git rev-list --tags --max-count=1`)
 $ git checkout ${latestTag}
